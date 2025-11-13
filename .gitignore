@@ -1,0 +1,21 @@
+# Compiled binaries
+basic_test
+safe_test
+performance_test
+generate_test_orders
+web_demo
+interactive_demo
+
+# Debug symbols
+*.dSYM/
+
+# Generated test files
+orders_*.csv
+performance_report.html
+
+# Build artifacts
+*.o
+*.a
+
+# OS files
+.DS_Store
